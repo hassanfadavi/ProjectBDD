@@ -39,7 +39,7 @@ public class ConfigManager {
               properties.load(envConfig);
               envConfig.close();
 
-              logger.info(env+ "has been loaded ");
+              logger.info(env+" environment has been loaded ");
 
 
 
@@ -62,10 +62,10 @@ public class ConfigManager {
 
 
 
-    public static void main(String[] args)   {
-        System.out.println(properties.getProperty("browser"));
-
-    }
+//    public static void main(String[] args)   {
+//        System.out.println(properties.getProperty("browser"));
+//
+//    }
 
 
 

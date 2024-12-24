@@ -1,1 +1,95 @@
 2024-12-23 16:22:12 INFO  ConfigManager:42 - TESThas been loaded 
+2024-12-24 09:45:13 INFO  ConfigManager:42 - TESThas been loaded 
+2024-12-24 09:45:13 INFO  ConfigManager:53 - Configuration loaded for browser: CHROME
+2024-12-24 09:45:21 INFO  BaseTest:19 - start the test with the :https://www.google.com/
+2024-12-24 09:47:28 INFO  ConfigManager:42 - TESThas been loaded 
+2024-12-24 09:47:28 INFO  ConfigManager:53 - Configuration loaded for browser: CHROME
+2024-12-24 09:47:35 INFO  BaseTest:19 - start the test with the :https://www.google.com/
+2024-12-24 09:48:11 INFO  ConfigManager:42 - TESThas been loaded 
+2024-12-24 09:48:11 INFO  ConfigManager:53 - Configuration loaded for browser: CHROME
+2024-12-24 09:48:18 INFO  BaseTest:19 - start the test with the :https://www.google.com/
+2024-12-24 09:50:06 INFO  ConfigManager:42 - TESThas been loaded 
+2024-12-24 09:50:06 INFO  ConfigManager:53 - Configuration loaded for browser: CHROME
+2024-12-24 09:50:11 INFO  BaseTest:19 - start the test with the :{https://www.google.com/}
+2024-12-24 09:55:58 INFO  ConfigManager:42 - TESThas been loaded 
+2024-12-24 09:55:58 INFO  ConfigManager:53 - Configuration loaded for browser: CHROME
+2024-12-24 09:56:04 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 09:57:57 INFO  ConfigManager:42 - TESThas been loaded 
+2024-12-24 09:57:57 INFO  ConfigManager:53 - Configuration loaded for browser: CHROME
+2024-12-24 09:58:03 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:00:09 INFO  ConfigManager:42 - TESThas been loaded 
+2024-12-24 10:00:09 INFO  ConfigManager:53 - Configuration loaded for browser: CHROME
+2024-12-24 10:00:16 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:01:21 INFO  ConfigManager:42 - TESThas been loaded 
+2024-12-24 10:01:21 INFO  ConfigManager:53 - Configuration loaded for browser: CHROME
+2024-12-24 10:01:29 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:01:56 INFO  ConfigManager:42 - TESThas been loaded 
+2024-12-24 10:01:56 INFO  ConfigManager:53 - Configuration loaded for browser: CHROME
+2024-12-24 10:02:03 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:02:15 INFO  ConfigManager:42 - TESThas been loaded 
+2024-12-24 10:02:15 INFO  ConfigManager:53 - Configuration loaded for browser: CHROME
+2024-12-24 10:02:23 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:02:41 INFO  ConfigManager:42 - TESThas been loaded 
+2024-12-24 10:02:41 INFO  ConfigManager:53 - Configuration loaded for browser: CHROME
+2024-12-24 10:02:49 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:03:13 INFO  ConfigManager:42 - TESThas been loaded 
+2024-12-24 10:03:13 INFO  ConfigManager:53 - Configuration loaded for browser: CHROME
+2024-12-24 10:03:22 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:05:30 INFO  ConfigManager:42 - TESThas been loaded 
+2024-12-24 10:05:30 INFO  ConfigManager:41 - Configuration loaded for browser: CHROME
+2024-12-24 10:05:36 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:05:38 INFO  BaseTest:27 - Driver instance is quit after the test
+2024-12-24 10:07:32 INFO  ConfigManager:42 - TESTenvironment has been loaded 
+2024-12-24 10:07:32 INFO  ConfigManager:41 - Configuration loaded for browser: CHROME
+2024-12-24 10:07:36 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:07:37 INFO  BaseTest:27 - Driver instance is quit after the test
+2024-12-24 10:08:01 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-24 10:08:01 INFO  ConfigManager:41 - Configuration loaded for browser: CHROME
+2024-12-24 10:08:06 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:08:07 INFO  BaseTest:27 - Driver instance is quit after the test
+2024-12-24 10:15:10 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-24 10:15:10 INFO  ConfigManager:47 - Configuration loaded for browser: CHROME
+2024-12-24 10:15:17 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:15:18 INFO  BaseTest:27 - Driver instance is quit after the test
+2024-12-24 10:16:38 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-24 10:16:38 INFO  ConfigManager:47 - Configuration loaded for browser: CHROME
+2024-12-24 10:17:08 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-24 10:17:08 INFO  ConfigManager:47 - Configuration loaded for browser: CHROME
+2024-12-24 10:17:13 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:17:15 INFO  BaseTest:27 - Driver instance is quit after the test
+2024-12-24 10:18:01 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-24 10:18:01 INFO  ConfigManager:47 - Configuration loaded for browser: CHROME
+2024-12-24 10:18:07 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:18:10 INFO  BaseTest:27 - Driver instance is quit after the test
+2024-12-24 10:19:14 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-24 10:19:14 INFO  ConfigManager:46 - Configuration loaded for browser: CHROME
+2024-12-24 10:19:20 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:19:21 INFO  BaseTest:27 - Driver instance is quit after the test
+2024-12-24 10:19:51 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-24 10:19:51 INFO  ConfigManager:46 - Configuration loaded for browser: CHROME
+2024-12-24 10:19:56 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:19:57 INFO  BaseTest:27 - Driver instance is quit after the test
+2024-12-24 10:20:39 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-24 10:20:39 INFO  ConfigManager:46 - Configuration loaded for browser: CHROME
+2024-12-24 10:20:43 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:20:44 INFO  BaseTest:27 - Driver instance is quit after the test
+2024-12-24 10:22:48 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-24 10:22:48 INFO  ConfigManager:46 - Configuration loaded for browser: CHROME
+2024-12-24 10:22:53 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:22:53 INFO  BaseTest:27 - Driver instance is quit after the test
+2024-12-24 10:25:19 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-24 10:25:19 INFO  ConfigManager:46 - Configuration loaded for CHROME browser: 
+2024-12-24 10:25:24 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:25:26 INFO  BaseTest:27 - Driver instance is quit after the test
+2024-12-24 10:25:46 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-24 10:25:46 INFO  ConfigManager:46 - Configuration loaded for{ CHROME } browser: 
+2024-12-24 10:25:51 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:25:52 INFO  BaseTest:27 - Driver instance is quit after the test
+2024-12-24 10:27:57 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-24 10:27:57 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-24 10:28:02 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:28:03 INFO  BaseTest:27 - Driver instance is quit after the test
+2024-12-24 10:32:18 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-24 10:32:18 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-24 10:32:22 INFO  BaseTest:19 - start the test with the :{  https://www.google.com/  }
+2024-12-24 10:32:23 INFO  BaseTest:27 - Driver instance is quit after the test

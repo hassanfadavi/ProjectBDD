@@ -29,35 +29,27 @@ public class DriverFactory {
         return driver.get();
     }
 
-    public static void quitDriver(){
-
-        if(driver!=null){
-            driver.get().quit();
-            driver.remove();
-
-        }
-
-    }
-
-
-
 
 
     public static void initializeWebDriver(){
         boolean isHeadless=Boolean.parseBoolean ( ConfigManager.getProperty("isHeadless"));
-        System.out.println("headless: "+isHeadless);
+        if(isHeadless){
+            System.out.println("headless: "+isHeadless+" (the browser operates in the background") ;
+        }else {
+            System.out.println("headless: "+isHeadless+" (The browser runs with a visible GUI") ;
+        }
+
 
 
         Browser  browser=Browser.valueOf( ConfigManager.getProperty("browser").toUpperCase());
         System.out.println("Browser: "+browser    );
-        ConfigManager.logger.info("Configuration loaded for browser: "+browser);
+        ConfigManager.logger.info("Configuration loaded for { "+browser+" } browser: ");
 
 
         switch (browser){
             case CHROME:
                 WebDriverManager.chromedriver().setup();
                 chromeOption =new ChromeOptions();
-
 
 
              if(isHeadless){
@@ -106,7 +98,15 @@ public class DriverFactory {
        webdriver.get(ConfigManager.getProperty("baseUrl"));
     }
 
+    public static void quitDriver(){
 
+        if(driver!=null){
+            driver.get().quit();
+            driver.remove();
+
+        }
+
+    }
 
 
 }
