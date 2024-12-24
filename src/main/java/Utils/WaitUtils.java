@@ -8,12 +8,24 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import java.io.IOException;
+
 import java.time.Duration;
 
 public class WaitUtils {
 
-public static WebDriver driver;
+//public static WebDriver driver;
+
+
+    public static Duration getTimeOut(){
+
+        String  timeOutValue=ConfigManager.getProperty("timeout");
+        int timeOutInSecconds =(timeOutValue!=null) ?Integer.parseInt (timeOutValue):10 ;
+        return Duration.ofSeconds(timeOutInSecconds);
+
+
+
+    }
+
 
     public static void applyGlobalWait(){
 
@@ -26,7 +38,7 @@ public static WebDriver driver;
 
         if(enableWait&&waitInSeconds>0){
             try {
-                Thread.sleep(waitInSeconds+1000L);
+                Thread.sleep(waitInSeconds * 1000L);
 
             }catch (InterruptedException e){
                 Thread.currentThread().interrupt();
@@ -39,15 +51,6 @@ public static WebDriver driver;
 
 
 
-    public static Duration getTimeOut(){
-
-       String  timeOutValue=ConfigManager.getProperty("timeout");
-       int timeOutInSecconds =(timeOutValue!=null) ?Integer.parseInt (timeOutValue):10 ;
-       return Duration.ofSeconds(timeOutInSecconds);
-
-
-
-    }
 
   public static   WebDriverWait  wait;
 
@@ -86,17 +89,12 @@ public static WebDriver driver;
     }
 
 
-
-
-
-
-
-
-    public static void main(String[] args) {
-        applyGlobalWait();
-        System.out.println(ConfigManager.getProperty("timeout"));
-
-    }
+//
+//    public static void main(String[] args) {
+//        applyGlobalWait();
+//        System.out.println(ConfigManager.getProperty("timeout"));
+//
+//    }
 
 
 
