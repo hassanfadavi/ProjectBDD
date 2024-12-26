@@ -1,6 +1,8 @@
 package pages.flipKart;
 
+import Utils.WaitUtils;
 import actions.ActionsDemo;
+import enums.WaitStrategy;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -23,6 +25,7 @@ public class LoginPage {
 
 
 
+
     public LoginPage(WebDriver driver){
 
         this.driver=driver;
@@ -36,19 +39,30 @@ public class LoginPage {
 
 
 
-
-
     }
 
-    public void enterEmail(String email){
-        emailAddress.sendKeys(email);
+    public void enterEmail(String email) throws InterruptedException {
+
+       actionsDemo.sendKeyAction(emailAddress,email);
+//       emailAddress.sendKeys(email);
 
     }
 
     public void clickOnOptButton(){
-        actionsDemo.actionClick(submitRequestOpt);
+        actionsDemo.actionMouseClick(submitRequestOpt);
 
     }
+
+
+
+//    public WebElement textOpt(){
+////        String  actualText=optText.getText();
+////        String expectedText="Please enter the OTP sent to";
+//        optText=driver.findElement(By.xpath( "//div[@class='kZYA3m']"));
+//        return WaitUtils.applyWait(driver,optText, WaitStrategy.VISIBLE);
+//
+//
+//    }
 
 
 

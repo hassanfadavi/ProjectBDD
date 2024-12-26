@@ -33,8 +33,7 @@ public class NavigateToLOginPage extends BaseTest {
     @When("I double click on login button")
     public void i_double_click_on_login_button() throws InterruptedException {
         this.landingPage=new LandingPage(driver);
-
-     WaitUtils.applyGlobalWait();
+        WaitUtils.applyGlobalWait();
         landingPage.clickOnLoginButton();
 
     }
