@@ -3,6 +3,7 @@ package stepdefinations.flipkart;
 import Utils.WaitUtils;
 import base.BaseTest;
 import config.ConfigManager;
+import enums.WaitStrategy;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.And;
@@ -55,8 +56,10 @@ public class Product_Search_Functionality extends BaseTest {
     @Then("results displayed should be related to the selected category {string}")
     public void results_displayed_should_be_related_to_the_selected_category(String categories) {
         this.searchPage=new SearchPage(driver);
+        WaitUtils.applyGlobalWait();
+//        WaitUtils.applyWait(driver,searchPage., WaitStrategy.VISIBLE);
 
-      String actualCategory= searchPage.categories.getAttribute("title");
+      String actualCategory= searchPage.getCategory();
 //      String expectedCategory=categories;
         Assert.assertEquals(actualCategory,categories,"results are not matched to the categories");
 

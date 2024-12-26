@@ -12,6 +12,10 @@ public class ProductDetailPage {
 
 
     public WebElement addToCartButton;
+    public By cartCountElement;
+    public WebElement cartCount;
+
+
 
 
 
@@ -20,13 +24,22 @@ public class ProductDetailPage {
         this.driver=driver;
         this.actionsDemo=new ActionsDemo(driver);
 
-        addToCartButton=driver.findElement(By.cssSelector("button[class='QqFHMw vslbG+ In9uk2']"));
+        this.addToCartButton=driver.findElement(By.cssSelector("button[class='QqFHMw vslbG+ In9uk2']"));
+        this.cartCountElement=By.xpath("//div[@class='ZuSA--']");
 
     }
 
     public void addToCart(){
       actionsDemo.actionMouseClick(addToCartButton);
     }
+
+    public String cartCount(){
+      cartCount=driver.findElement(cartCountElement);
+      return cartCount.getText();
+
+    }
+
+
 
 
 

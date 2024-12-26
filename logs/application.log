@@ -1318,3 +1318,580 @@
 2024-12-25 19:36:35 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
 2024-12-25 19:36:37 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
 2024-12-25 19:36:38 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:02:09 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:02:09 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:02:17 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:02:23 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:02:25 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:02:26 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:05:35 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:05:35 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:05:45 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:05:51 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:05:53 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:05:55 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:09:35 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:09:35 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:09:42 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:10:37 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:10:37 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:10:41 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:11:38 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:11:38 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:11:46 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:12:08 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:12:08 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:12:14 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:12:55 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:12:55 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:13:04 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:15:29 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:15:29 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:15:34 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:20:31 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:20:31 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:20:35 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:20:41 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:20:44 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:20:45 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:23:18 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:23:18 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:23:26 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:23:32 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:23:34 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:23:35 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:36:20 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:36:20 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:36:27 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:36:33 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:36:35 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:36:37 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:39:50 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:39:50 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:39:57 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:40:53 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:40:53 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:41:00 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:41:08 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:41:11 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:41:12 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:43:08 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:43:08 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:43:14 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:43:21 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:43:23 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:43:25 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:44:36 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:44:36 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:44:46 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:44:52 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:44:55 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:44:57 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:46:33 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:46:33 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:46:40 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:46:44 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:46:48 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:46:50 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:54:15 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:54:15 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:54:22 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:54:28 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:54:29 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:54:31 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:55:47 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:55:47 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:55:53 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:57:17 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:57:17 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:57:25 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:58:01 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:58:01 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:58:08 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 10:59:02 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 10:59:02 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 10:59:09 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:00:40 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:00:40 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:00:46 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:11:04 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:11:04 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:11:12 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:12:11 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:12:11 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:12:15 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:12:58 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:12:58 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:13:07 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:19:18 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:19:18 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:19:25 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:19:31 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:19:33 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:19:34 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:21:11 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:21:11 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:21:16 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:21:22 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:21:25 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:21:27 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:22:05 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:22:05 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:22:11 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:22:17 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:22:19 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:22:20 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:23:39 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:23:39 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:23:45 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:23:52 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:23:53 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:23:54 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:24:26 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:24:26 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:24:33 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:24:39 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:24:41 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:24:42 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:32:17 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:32:17 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:32:24 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:32:30 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:32:32 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:32:34 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:42:32 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:42:32 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:42:38 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:44:04 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:44:04 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:44:09 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:45:10 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:45:10 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:45:16 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:46:13 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:46:13 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:46:19 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:46:25 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:46:27 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:46:28 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:48:05 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:48:05 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:48:09 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:48:16 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:48:18 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:48:20 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:52:41 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:52:41 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:52:45 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:52:51 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:52:53 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:52:54 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:53:42 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:53:42 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:53:49 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:53:58 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:53:58 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:54:03 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:54:10 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:54:11 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:54:13 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:54:38 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:54:38 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:54:46 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:54:52 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:54:53 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:54:55 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:57:41 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:57:41 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:57:49 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:57:55 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:57:57 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:57:58 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:59:28 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 11:59:28 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 11:59:35 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:59:41 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:59:43 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 11:59:45 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:06:22 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 12:06:22 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 12:06:28 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:07:07 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 12:07:07 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 12:07:11 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:07:17 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:07:18 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:07:19 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:07:36 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:07:51 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 12:07:51 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 12:07:58 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:08:04 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:08:06 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:08:08 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:08:27 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:08:33 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:08:34 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:08:35 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:11:38 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 12:11:38 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 12:11:42 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:11:48 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:11:50 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:11:51 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:12:09 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:12:15 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:12:17 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:12:18 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:14:52 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 12:14:52 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 12:14:58 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:15:04 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:15:06 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:15:07 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:15:25 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:15:31 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:15:32 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:15:34 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:19:14 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 12:19:14 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 12:19:20 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:19:26 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:19:28 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:19:29 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:19:48 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:19:54 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:19:55 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:19:56 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:22:28 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 12:22:28 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 12:22:33 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:22:39 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:22:41 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:22:43 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:23:01 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:23:07 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:23:09 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:23:10 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:24:24 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 12:24:24 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 12:24:30 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:24:36 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:24:37 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:24:39 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:24:58 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:25:04 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:25:05 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:25:06 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:26:52 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 12:26:52 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 12:26:58 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:27:04 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:27:06 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:27:08 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:27:26 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:27:32 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:27:33 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:27:35 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:30:56 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 12:30:56 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 12:31:03 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:31:09 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:31:11 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:31:12 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:31:35 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:31:41 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:31:43 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:31:44 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:32:02 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 12:32:02 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 12:32:10 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:32:16 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:32:18 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:32:20 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:32:42 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:32:49 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:32:50 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:32:51 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:40:40 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 12:40:40 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 12:40:46 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:40:53 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:40:55 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:40:56 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:41:17 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:41:22 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:41:24 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:41:26 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:43:34 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 12:43:34 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 12:43:39 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:43:45 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:43:46 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:43:47 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:44:10 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:44:16 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:44:17 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:44:19 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:45:03 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 12:45:03 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 12:45:07 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:45:14 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:45:15 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:45:17 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:45:42 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 12:45:42 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 12:45:47 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:45:54 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:45:55 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 12:45:57 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 13:45:47 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 13:45:47 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 13:45:57 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 13:46:05 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 13:46:08 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 13:46:10 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:01:34 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 15:01:34 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 15:01:41 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:01:47 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:01:49 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:01:51 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:08:01 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 15:08:01 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 15:08:08 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:08:14 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:08:16 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:08:23 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:08:24 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:09:27 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 15:09:27 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 15:09:35 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:09:41 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:09:43 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:09:49 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:09:51 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:14:29 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 15:14:29 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 15:14:34 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:14:42 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:14:44 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:14:51 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:14:52 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:15:44 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 15:15:44 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 15:15:50 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:15:57 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:15:59 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:16:05 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:16:08 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:36:04 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 15:36:04 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 15:36:09 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:36:16 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:36:18 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:36:24 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:36:25 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:39:21 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 15:39:21 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 15:39:32 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:39:39 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:39:41 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:39:47 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:39:49 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:41:32 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 15:41:32 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 15:41:38 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:41:45 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:41:47 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:41:54 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:41:55 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:44:38 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 15:44:38 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 15:44:45 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:45:57 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 15:45:57 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 15:46:03 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:47:02 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 15:47:02 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 15:47:10 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:48:58 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 15:48:58 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 15:49:03 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:56:00 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 15:56:00 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 15:56:04 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:56:44 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 15:56:44 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 15:56:49 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 15:59:06 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 15:59:06 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 15:59:12 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:01:10 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:01:10 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:01:19 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:02:21 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:02:21 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:02:29 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:02:43 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:02:43 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:02:49 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:02:56 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:02:57 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:03:04 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:03:05 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:09:44 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:09:44 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:09:50 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:09:57 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:09:59 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:10:05 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:10:07 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:12:03 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:12:03 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:12:11 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:12:18 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:12:20 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:12:27 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:12:29 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:17:06 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:17:06 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:17:11 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:17:17 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:17:19 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:17:25 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:17:27 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:18:38 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:18:38 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:20:03 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:20:03 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:20:27 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:20:27 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:20:34 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:22:27 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:22:27 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:22:34 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:23:26 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:23:26 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:23:34 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:25:04 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:25:04 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:25:11 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:39:49 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:39:49 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:39:53 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:40:00 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:40:01 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:40:08 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:40:10 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:41:44 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:41:44 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:42:08 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:42:08 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:42:14 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:43:24 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:43:24 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:43:31 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:44:36 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:44:36 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:44:42 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:44:49 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:44:51 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:44:57 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:44:59 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:46:36 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:46:36 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:46:43 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:46:49 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:46:51 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:46:58 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:47:00 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:48:17 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:48:17 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:48:24 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:48:31 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:48:33 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:48:39 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:48:42 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:50:11 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:50:11 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:50:20 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:50:27 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:50:28 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:50:35 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:50:36 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:53:08 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:53:08 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:53:14 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:53:21 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:53:22 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:53:29 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:53:30 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:55:19 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:55:19 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:55:26 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:55:33 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:55:34 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:55:40 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:55:41 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:56:39 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 16:56:39 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 16:56:46 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:56:53 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:56:54 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:57:01 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 16:57:02 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:03:38 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 17:03:38 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 17:03:44 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:03:51 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:03:53 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:03:59 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:04:01 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:04:58 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 17:04:58 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 17:05:03 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:05:12 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:05:14 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:05:20 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:05:22 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:06:08 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 17:06:08 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 17:06:16 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:06:22 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:06:24 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:06:30 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:06:32 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:06:54 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:07:00 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:07:02 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:07:08 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:07:10 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:08:50 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 17:08:50 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 17:08:56 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:09:03 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:09:05 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:09:11 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:09:13 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:11:22 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 17:11:22 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 17:11:28 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:11:34 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:11:36 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:11:42 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:11:43 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:38:58 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 17:38:58 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 17:39:04 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:39:10 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:39:11 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:39:18 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:39:19 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:41:03 INFO  ConfigManager:42 - TEST environment has been loaded 
+2024-12-26 17:41:03 INFO  ConfigManager:46 - Configuration loaded for { CHROME } browser: 
+2024-12-26 17:41:11 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:41:17 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:41:19 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:41:26 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2024-12-26 17:41:27 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }

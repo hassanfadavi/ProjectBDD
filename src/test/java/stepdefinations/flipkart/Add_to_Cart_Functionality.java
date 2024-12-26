@@ -3,12 +3,14 @@ package stepdefinations.flipkart;
 import Utils.WaitUtils;
 import base.BaseTest;
 import config.ConfigManager;
+import enums.WaitStrategy;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
+import org.testng.Assert;
 import pages.flipKart.LandingPage;
 import pages.flipKart.ProductDetailPage;
 import pages.flipKart.SearchPage;
@@ -28,6 +30,9 @@ public class Add_to_Cart_Functionality extends BaseTest {
         setUp();
 //        this.landingPage=new LandingPage(driver);
         WaitUtils.applyGlobalWait();
+//        this.landingPage=new LandingPage(driver);
+//        this.searchPage=new SearchPage(driver);
+//        this.productDetailPage=new ProductDetailPage(driver);
 
     }
 
@@ -56,7 +61,8 @@ public class Add_to_Cart_Functionality extends BaseTest {
     public void i_will_click_on_my_product() {
         this.searchPage=new SearchPage(driver);
         searchPage.clickOnHeadPhoneProduct();
-//        searchPage.clickOnkettobyProduct();
+
+        WaitUtils.applyGlobalWait();
 
 
     }
@@ -71,6 +77,8 @@ public class Add_to_Cart_Functionality extends BaseTest {
     @When("I click the Add to Cart button")
     public void I_click_the_Add_to_Cart_button() {
         this.productDetailPage=new ProductDetailPage(driver);
+        WaitUtils.applyGlobalWait();
+        WaitUtils.applyWait(driver,productDetailPage.addToCartButton,WaitStrategy.CLICKABLE);
         productDetailPage.addToCart();
         WaitUtils.applyGlobalWait();
 
@@ -85,16 +93,16 @@ public class Add_to_Cart_Functionality extends BaseTest {
         WaitUtils.applyGlobalWait();
 
 
-
-
-
-
     }
     @Then("the cart count should update accordingly")
     public void the_cart_count_should_update_accordingly() {
 //
 //        driver.findElement(By.xpath("//a[@class='_3CowY2']//span")).getText();
-        System.out.println(driver.findElement(By.xpath("//a[@class='ZuSA--")).getText());
+        WaitUtils.applyWait(driver,productDetailPage.cartCount,WaitStrategy.PRESENCE,productDetailPage.cartCountElement);
+//
+        String  cartCount=productDetailPage.cartCount();
+      int  actualcartNumber=Integer.parseInt(cartCount);
+        Assert.assertEquals(actualcartNumber,1,"product was not added to cart ");
 
     }
 
