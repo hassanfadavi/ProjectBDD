@@ -4,8 +4,10 @@ import Utils.WaitUtils;
 import base.BaseTest;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
+import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import org.testng.Assert;
 import pages.flipKart.LandingPage;
 import pages.flipKart.SearchPage;
 
@@ -64,19 +66,31 @@ public class Max_Min_Price_Range_Filter extends BaseTest {
     }
 
 
-    @When("the user selects the {string} sorting option")
-    public void the_user_selects_the_sorting_option(String string) {
+    @When("the user selects the Price Low to High sorting option")
+    public void the_user_selects_the_Low_to_High_sorting_option() {
+        WaitUtils.applyGlobalWait();
+        searchPage.clickOnPriceLowToHigh();
 
     }
 
     @Then("the products displayed should have prices greater than or equal to {string}")
-    public void the_products_displayed_should_have_prices_greater_than_or_equal_to(String string) {
+    public void the_products_displayed_should_have_prices_greater_than_or_equal_to(String minPrice) {
+
+        searchPage.pricesLowToHigh(Integer.parseInt(minPrice));
 
     }
 
 
-    @Then("no product outside this price range should appear in the filtered results.")
-    public void no_product_outside_this_price_range_should_appear_in_the_filtered_results() {
+    @When ("the user selects the Price High to Low  sorting option")
+    public void the_user_selects_the_Price_High_to_Low_sorting_option(){
+        WaitUtils.applyGlobalWait();
+        searchPage.clickOnPriceHighToLow();
+    }
+
+    @Then("the products displayed should have prices less than or equal to {string}")
+    public void the_products_displayed_should_have_prices_less_than_or_equal_to(String maxPrice) {
+
+        searchPage.pricesHighToLow(Integer.parseInt(maxPrice));
 
     }
 

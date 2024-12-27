@@ -13,11 +13,12 @@ public class LandingPage {
 
 
       WebDriver driver;
-    ActionsDemo actionsDemo;
+      ActionsDemo actionsDemo;
 
 
-    WebElement loginButton;
-    public WebElement searcInput;
+    public  WebElement loginButton;
+    public WebElement searchInput;
+    public WebElement flightsButton;
 
 
 
@@ -27,7 +28,8 @@ public class LandingPage {
          this.actionsDemo=new ActionsDemo(driver);
 
         loginButton=driver.findElement(By.xpath("//div[@class='H6-NpN _3N4_BX']//a[@title='Login']"));
-        searcInput=driver.findElement(By.xpath("//input[@type='text']"));
+        searchInput=driver.findElement(By.xpath("//input[@type='text']"));
+        flightsButton=driver.findElement(By.xpath("//span[@class='_1XjE3T']//span[text()='Flight Bookings']"));
 
 
     }
@@ -39,13 +41,17 @@ public class LandingPage {
 
     public void searchInput(String srt) throws InterruptedException {
 //        searcInput.clear();
-        actionsDemo.sendKeyAction(searcInput,srt);
+        actionsDemo.sendKeyAction(searchInput,srt);
         Thread.sleep(2000);
 //        actionsDemo.enterKeyAction();
     }
 
     public void enterKey(){
         actionsDemo.enterKeyAction();
+    }
+
+    public void clickOnFlightButton(){
+        actionsDemo.actionMouseClick(flightsButton);
     }
 
 

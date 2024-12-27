@@ -37,6 +37,10 @@ public class ActionsDemo {
     }
 
 
+
+
+
+
     //keyboard actions
     public void sendKeyAction(WebElement el,String str) throws InterruptedException {
         this.element=el;
