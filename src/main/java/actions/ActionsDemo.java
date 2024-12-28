@@ -29,7 +29,7 @@ public class ActionsDemo {
     }
     public void actionMousehover(WebElement el){
         this.element=el;
-        ac.moveToElement(el).perform();
+        ac.moveToElement(el).click().perform();
     }
     public void actionMousedoubleClick(WebElement el){
         this.element=el;

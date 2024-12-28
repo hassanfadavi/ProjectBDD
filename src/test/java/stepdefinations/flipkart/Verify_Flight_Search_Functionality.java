@@ -38,10 +38,27 @@ public class Verify_Flight_Search_Functionality extends BaseTest {
         WaitUtils.applyGlobalWait();
 
     }
+
+    @And("I select departure date {string}")
+    public void i_select_departure_date(String departure_date) {
+        this.flightSearchPage=new FlightSearchPage(driver);
+        flightSearchPage.departureDate(departure_date);
+
+
+    }
+
+
+    @And("I select return date {string}")
+    public void i_select_return_date(String return_date) {
+        flightSearchPage.returnDate(return_date);
+        WaitUtils.applyGlobalWait();
+    }
+
     @And("I select the departure city {string}")
     public void i_select_the_departure_city(String departure_city) {
-        this.flightSearchPage=new FlightSearchPage(driver);
+
         flightSearchPage.departureCity(departure_city);
+
 
 
     }
@@ -51,14 +68,8 @@ public class Verify_Flight_Search_Functionality extends BaseTest {
         flightSearchPage.destinationCity(destination_city);
 
     }
-    @And("I select departure date {string}")
-    public void i_select_departure_date(String departure_date) {
 
-    }
-    @And("I select return date {string}")
-    public void i_select_return_date(String return_date) {
 
-    }
     @Then("I click the Search button.")
     public void i_click_the_button(String string) {
 
