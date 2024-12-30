@@ -17,11 +17,11 @@ import io.cucumber.testng.CucumberOptions;
         monochrome = true,
 //          tags="@navigate_to_login_page"
 //      tags="@navigate_to_opt_page"
-//         tags ="@Product_Search"
+         tags ="@Product_Search"
 //        tags = "@add_product_to_cart"
 //        tags ="@Price_Range"
-        tags ="@Flight_Search"
-
+//        tags ="@Flight_Search"
+//          tags = "@Discount_filter"
 
 )
 

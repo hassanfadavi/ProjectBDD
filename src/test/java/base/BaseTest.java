@@ -13,17 +13,22 @@ public class BaseTest {
 
     protected WebDriver driver;
 
-    public static final Logger logger= LogManager.getLogger();
+    protected static final Logger logger= LogManager.getLogger();
 
 
     @BeforeMethod
-    public void setUp(){
+    public void setUp() {
 
-        this.driver =DriverFactory.getDriver();
-        driver.get(ConfigManager.getProperty("baseUrl"));
-        logger.info("start the test with the :{  "+ConfigManager.getProperty("baseUrl")+"  }");
+            this.driver = DriverFactory.getDriver();
+            driver.get(ConfigManager.getProperty("baseUrl"));
+            logger.info("start the test with the :{  " + ConfigManager.getProperty("baseUrl") + "  }");
+
 
     }
+
+
+
+
 
 
     @AfterMethod

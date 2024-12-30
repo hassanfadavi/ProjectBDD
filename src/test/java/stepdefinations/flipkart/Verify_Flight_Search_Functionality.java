@@ -7,6 +7,10 @@ import io.cucumber.java.Before;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.testng.Assert;
+import pages.flipKart.FlightPage;
 import pages.flipKart.FlightSearchPage;
 import pages.flipKart.LandingPage;
 import pages.flipKart.SearchPage;
@@ -16,7 +20,8 @@ public class Verify_Flight_Search_Functionality extends BaseTest {
 
     LandingPage landingPage;
     FlightSearchPage  flightSearchPage;
-//    SearchPage searchPage;
+    FlightPage flightPag;
+
 
     @Before
     public void prepareed(){
@@ -70,18 +75,24 @@ public class Verify_Flight_Search_Functionality extends BaseTest {
     }
 
 
-    @Then("I click the Search button.")
-    public void i_click_the_button(String string) {
+    @Then("I click the Search flight button")
+    public void i_click_the_button() {
+        WaitUtils.applyGlobalWait();
+        flightSearchPage.clickOnSearchButton();
 
     }
-    @Then("the system should display available flights matching the departure {string}")
-    public void the_system_should_display_available_flights_matching_the_departure(String departure_city) {
+    @Then("I should be navigated to flight page")
+    public void I_should_be_navigated_to_flight_page() throws InterruptedException {
+        Thread.sleep(15000);
+        this.flightPag=new FlightPage(driver);
+      String actualText=flightPag.filterBy.getText();
+      String expectedText="Filter By";
+        Assert.assertEquals(actualText,expectedText,"not match");
 
     }
-    @And("the system should display available flights matching the destination {string}")
-    public void the_system_should_display_available_flights_matching_the_destination(String destination_cityg) {
 
-    }
+
+
 
 
 

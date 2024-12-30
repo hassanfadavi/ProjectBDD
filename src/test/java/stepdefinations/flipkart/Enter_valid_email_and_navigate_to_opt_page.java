@@ -7,7 +7,11 @@ import io.cucumber.java.Before;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import org.junit.Assert;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import pages.flipKart.LoginPage;
+import pages.flipKart.OptPage;
 
 
 public class Enter_valid_email_and_navigate_to_opt_page extends BaseTest {
@@ -16,6 +20,7 @@ public class Enter_valid_email_and_navigate_to_opt_page extends BaseTest {
 
 
     LoginPage loginPage;
+    OptPage optPage;
 
 
     @Before
@@ -46,17 +51,20 @@ public class Enter_valid_email_and_navigate_to_opt_page extends BaseTest {
 
     }
 
-//
-//    @Then ("I should see the OTP")
-//    public void I_should_see_the_OTP(){
+
+    @Then ("I should see the OTP message")
+    public void I_should_see_the_OTP(){
+        WaitUtils.applyGlobalWait();
 //        loginPage.optText.getText();
-////        WaitUtils.applyWait(driver,loginPage.loginText, WaitStrategy.PRESENCE);
-//
-//        String  actualText=loginPage.optText.getText();
-//        String expectedText="Please enter the OTP sent to";
-//        Assert.assertEquals(actualText,expectedText,"not match");
-//
-//    }
+//        WaitUtils.applyWait(driver,loginPage.loginText, WaitStrategy.PRESENCE);
+//       WebElement ac=driver.findElement(By.xpath("//div[@class='r6+Mxy']//div[text()='Please enter the OTP sent to']"));
+        this.optPage=new OptPage(driver);
+
+        String actualText=optPage.optText.getText();
+        String expectedText="Please enter the OTP sent to";
+        Assert.assertEquals("not match", expectedText,actualText);
+
+    }
 
 
 

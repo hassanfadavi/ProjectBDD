@@ -23,7 +23,7 @@ public class Product_Search_Functionality extends BaseTest {
     @Before
     public void prepareed(){
         setUp();
-        this.landingPage=new LandingPage(driver);
+//        this.landingPage=new LandingPage(driver);
         WaitUtils.applyGlobalWait();
 
     }
@@ -31,7 +31,7 @@ public class Product_Search_Functionality extends BaseTest {
 
     @When("I enter product_name in search bar {string}")
     public void i_enter_product_name_in_search_bar(String product_name) throws InterruptedException {
-//        this.landingPage=new LandingPage(driver);
+        this.landingPage=new LandingPage(driver);
         landingPage.searchInput(product_name);
 //        System.out.println(product_name);
         WaitUtils.applyGlobalWait();

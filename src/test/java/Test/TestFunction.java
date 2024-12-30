@@ -7,6 +7,7 @@ import config.ConfigManager;
 import enums.WaitStrategy;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -33,6 +34,7 @@ public class TestFunction extends BaseTest {
     SearchPage searchPage;
     //    ProductDetailPage productDetailPage;
     ActionsDemo actionsDemo;
+    Actions actions;
 
 //        @Test
 //    public void tes_navigate_to_login_page() throws InterruptedException {
@@ -88,125 +90,149 @@ public class TestFunction extends BaseTest {
 
 
 //
-//    @Test
-//    public void test_Max_Min_price() throws InterruptedException {
-//
-//        this.landingPage = new LandingPage(driver);
-//        WaitUtils.applyGlobalWait();
-//        landingPage.searchInput("Washing Machine");
-//        landingPage.enterKey();
-//
-//        WaitUtils.applyGlobalWait();
-//
-//        this.searchPage=new SearchPage(driver);
-//        searchPage.selectMaxPrice("25000");
-//        WaitUtils.applyGlobalWait();
-//
-//        searchPage.selectMinPrice("15000");
-//        WaitUtils.applyGlobalWait();
-//        searchPage.clickOnPriceLowToHigh();
-//        WaitUtils.applyGlobalWait();
-//        searchPage.pricesLowToHigh(15000);
-//        WaitUtils.applyGlobalWait();
-//        searchPage.pricesHighToLow(25000);
-//
-//
-//        }
-
-
-    Actions actions;
-
     @Test
-    public void Flight_Search() throws InterruptedException {
+    public void test_Max_Min_price() throws InterruptedException {
+
         this.landingPage = new LandingPage(driver);
-        this.actions = new Actions(driver);
-        landingPage.clickOnFlightButton();
-
+        WaitUtils.applyGlobalWait();
+        landingPage.searchInput("Washing Machine");
+        landingPage.enterKey();
 
         WaitUtils.applyGlobalWait();
 
-
-        WebElement departureDateDropDown = driver.findElement(By.xpath("//input[@name='0-datefrom']"));
-        WaitUtils.applyWait(driver,departureDateDropDown,WaitStrategy.CLICKABLE);
-        actions.click(departureDateDropDown).perform();
-        date("April 2025","10");
-
-
+        this.searchPage=new SearchPage(driver);
+        searchPage.selectMaxPrice("25000");
         WaitUtils.applyGlobalWait();
 
-        WebElement destinationDateDropDown = driver.findElement(By.xpath("//input[@name='0-dateto']"));
-        actions.click(destinationDateDropDown).perform();
-        date("May 2025","20");
-
+        searchPage.selectMinPrice("15000");
         WaitUtils.applyGlobalWait();
-
-        WebElement departure=driver.findElement(By.xpath("//input[@name='0-departcity']"));
-        WaitUtils.applyWait(driver,departure,WaitStrategy.CLICKABLE);
-        actions.click(departure).perform();
+        searchPage.clickOnPriceLowToHigh();
         WaitUtils.applyGlobalWait();
-        citydep("BOM");
-
+        searchPage.pricesLowToHigh(25000);
         WaitUtils.applyGlobalWait();
+        searchPage.pricesHighToLow(15000);
 
 
-        //
-        WebElement destination=driver.findElement(By.xpath("//input[@name='0-arrivalcity']"));
-        WaitUtils.applyWait(driver,destination,WaitStrategy.CLICKABLE);
-        actions.click(destination).perform();
-        WaitUtils.applyGlobalWait();
-        citydest("BKK");
-
-
-    }
-
-
-    public void citydep(String cityName){
-
-        List<WebElement> departureCities = driver.findElements(By.xpath("//div[@class='zeQVwu']//div[@class='V4BMfY'][1]//div[@class='_1wlldp']"));
-        for (WebElement departcity : departureCities) {
-
-            if (departcity.getText().equals(cityName)) {
-                actions.moveToElement(departcity).click().perform();
-                break;
-            }
-        }
-    }
-
-
-    public void citydest(String cityName){
-
-        List<WebElement> destinationCities = driver.findElements(By.xpath("//div[@class='zeQVwu']//div[@class='V4BMfY'][2]//div[@class='_1wlldp']"));
-        for (WebElement destcity : destinationCities) {
-
-            if (destcity.getText().equals(cityName)) {
-                actions.moveToElement(destcity).click().perform();
-                break;
-            }
-        }
-    }
-
-
-
-    public void date(String monthYears,String dayss){
-        while (true) {
-            WebElement monthYear = driver.findElement(By.xpath("//div[@class='_1w7bXX']"));
-            if (monthYear.getText().equals(monthYears)) {
-                break;
-            } else {
-                WebElement nextPage=driver.findElement(By.xpath("//div[@class='au1mSN']//button[@class='R0r93E']"));
-                nextPage.click();
-            }
-        }
-        List <WebElement>days=driver.findElements(By.xpath("//button[@class='pl8ttv']"));
-        System.out.println(days.size());
-        for(   WebElement   day:days     ){
-            if(day.getText().equals(dayss)){
-                actions.moveToElement(day).click().perform();
-                break;
-            }
         }
 
-    }
+
+
+//
+//    @Test
+//    public void Flight_Search() throws InterruptedException {
+//        this.landingPage = new LandingPage(driver);
+//        this.actions = new Actions(driver);
+//        landingPage.clickOnFlightButton();
+//
+//
+//        WaitUtils.applyGlobalWait();
+//
+////
+//        WebElement departureDateDropDown = driver.findElement(By.xpath("//input[@name='0-datefrom']"));
+//        WaitUtils.applyWait(driver,departureDateDropDown,WaitStrategy.CLICKABLE);
+//        actions.click(departureDateDropDown).perform();
+//        date("April 2025","10");
+//
+//
+//        WaitUtils.applyGlobalWait();
+//
+//        WebElement destinationDateDropDown = driver.findElement(By.xpath("//input[@name='0-dateto']"));
+//        actions.click(destinationDateDropDown).perform();
+//        date("May 2025","20");
+////
+//        WaitUtils.applyGlobalWait();
+//
+//        WebElement departure=driver.findElement(By.xpath("//input[@name='0-departcity']"));
+//        WaitUtils.applyWait(driver,departure,WaitStrategy.CLICKABLE);
+//        actions.click(departure).perform();
+//        WaitUtils.applyGlobalWait();
+//        citydep("BOM");
+//
+//        WaitUtils.applyGlobalWait();
+//
+//
+//        //
+//        WebElement destination=driver.findElement(By.xpath("//input[@name='0-arrivalcity']"));
+//        WaitUtils.applyWait(driver,destination,WaitStrategy.CLICKABLE);
+//        actions.click(destination).perform();
+//        WaitUtils.applyGlobalWait();
+//        citydest("BKK");
+//        WaitUtils.applyGlobalWait();
+//
+////        actions.keyDown(Keys.TAB).perform();
+////        actions.keyDown(Keys.TAB).perform();
+////
+//
+//
+//
+//      WebElement  searchButton=driver.findElement(By.cssSelector("button[type='button'] span"));
+//      WaitUtils.applyGlobalWait();
+//      WaitUtils.applyWait(driver,searchButton,WaitStrategy.CLICKABLE);
+//
+////      actions.moveToElement(searchButton).click().perform();
+//      actions.doubleClick(searchButton).perform();
+////      searchButton.click();
+//
+//
+//
+//
+//
+//
+//
+//    }
+//
+//
+//    public void citydep(String cityName){
+//
+//        List<WebElement> departureCities = driver.findElements(By.xpath("//div[@class='zeQVwu']//div[@class='V4BMfY'][1]//div[@class='_1wlldp']"));
+//        for (WebElement departcity : departureCities) {
+//
+//            if (departcity.getText().equals(cityName)) {
+//                actions.moveToElement(departcity).click().perform();
+//                break;
+//            }
+//        }
+//    }
+//
+//
+//    public void citydest(String cityName){
+//
+//        List<WebElement> destinationCities = driver.findElements(By.xpath("//div[@class='zeQVwu']//div[@class='V4BMfY'][2]//div[@class='_1wlldp']"));
+//        for (WebElement destcity : destinationCities) {
+//
+//            if (destcity.getText().equals(cityName)) {
+//                actions.moveToElement(destcity).click().perform();
+//                break;
+//            }
+//        }
+//    }
+//
+//
+//
+//    public void date(String monthYears,String dayss){
+//        while (true) {
+//            WebElement monthYear = driver.findElement(By.xpath("//div[@class='_1w7bXX']"));
+//            if (monthYear.getText().equals(monthYears)) {
+//                break;
+//            } else {
+//                WebElement nextPage=driver.findElement(By.xpath("//div[@class='au1mSN']//button[@class='R0r93E']"));
+//                nextPage.click();
+//            }
+//        }
+//        List <WebElement>days=driver.findElements(By.xpath("//button[@class='pl8ttv']"));
+//        System.out.println(days.size());
+//        for(   WebElement   day:days     ){
+//            if(day.getText().equals(dayss)){
+//                actions.moveToElement(day).click().perform();
+//                break;
+//            }
+//        }
+//
+//    }
+//
+//
+//
+
 
 
 

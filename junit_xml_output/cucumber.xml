@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Cucumber" time="73.827" tests="1" skipped="0" failures="0" errors="0">
-<testcase classname="Verify Flight Search Functionality" name="Search results are displayed for a valid product search - #1.1" time="73.515">
+<testsuite name="Cucumber" time="98.393" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Verify Product Search Functionality" name="Search results are displayed for a valid product search - #1.1" time="54.356">
 <system-out><![CDATA[
 Given The user is on flipKart home page.....................................passed
-When I click on Flights bookings............................................passed
-Then I should be navigated to flight search page............................passed
-And I select departure date "February 2025,10"..............................passed
-And I select return date "April 2025,20"....................................passed
-And I select the departure city "BOM".......................................passed
-And I select the destination city "BKK".....................................passed
+When I enter product_name in search bar "phone".............................passed
+And I click the Search button...............................................passed
+Then I should be navigated to search page...................................passed
+Then results displayed should be related to the selected category "Mobiles".passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify Product Search Functionality" name="Search results are displayed for a valid product search - #1.2" time="43.653">
+<system-out><![CDATA[
+Given The user is on flipKart home page.....................................passed
+When I enter product_name in search bar "tv"................................passed
+And I click the Search button...............................................passed
+Then I should be navigated to search page...................................passed
+Then results displayed should be related to the selected category "Televisions".passed
 ]]></system-out>
 </testcase>
 </testsuite>

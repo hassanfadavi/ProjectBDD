@@ -14,13 +14,15 @@ Feature:  Verify Maximum and Minimum Price Range Filter Works
     Then the products displayed should have prices greater than or equal to "<min_price>"
     When the user selects the Price High to Low  sorting option
     Then the products displayed should have prices less than or equal to "<max_price>"
-#    And no product outside this price range should appear in the filtered results
+
 
 
 
     Examples:
-      | product_name    | min_price |max_price |
-      | Washing Machine | 15000     |25000 |
+      | product_name    | min_price | max_price |
+      | Washing Machine | 15000     | 25000     |
+      | t shirt         | 500       | 1000      |
+      | watch for men   | 2000      | 10000     |
 
 
 

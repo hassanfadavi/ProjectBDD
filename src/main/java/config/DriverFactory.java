@@ -13,7 +13,7 @@ import org.openqa.selenium.safari.SafariDriver;
 
 public class DriverFactory {
 
-  public static   WebDriver webdriver;
+
   public static   ChromeOptions  chromeOption;
  public static    EdgeOptions  edgeOptions;
  public static    FirefoxOptions firefoxOptions;
@@ -32,6 +32,7 @@ public class DriverFactory {
 
 
     public static void initializeWebDriver(){
+         WebDriver webdriver;
         boolean isHeadless=Boolean.parseBoolean ( ConfigManager.getProperty("isHeadless"));
         if(isHeadless){
             System.out.println("headless: "+isHeadless+" (the browser operates in the background") ;
@@ -90,13 +91,14 @@ public class DriverFactory {
         webdriver.manage().window().maximize();
         driver.set(webdriver);
 
+
     }
 
-
-    public static void main(String[] args) {
-        initializeWebDriver();
-       webdriver.get(ConfigManager.getProperty("baseUrl"));
-    }
+//
+//    public static void main(String[] args) {
+//        initializeWebDriver();
+//       webdriver.get(ConfigManager.getProperty("baseUrl"));
+//    }
 
     public static void quitDriver(){
 

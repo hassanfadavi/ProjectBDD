@@ -9,7 +9,7 @@ Feature: Enter valid email and navigate to opt page page
     Then The user is  on flipKart login page
     And  I enter valid email address "<inputEmail>"
     When I click on RequestOTP button
-#    Then I should see the OTP
+    Then I should see the OTP message
 #    Then an error message should be displayed
     Examples:
       | inputEmail       |
