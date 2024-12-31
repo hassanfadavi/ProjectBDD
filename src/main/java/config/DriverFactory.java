@@ -24,6 +24,7 @@ public class DriverFactory {
 
     public static WebDriver getDriver(){
         if(driver.get()==null){
+
             initializeWebDriver();
         }
         return driver.get();
@@ -51,14 +52,11 @@ public class DriverFactory {
             case CHROME:
                 WebDriverManager.chromedriver().setup();
                 chromeOption =new ChromeOptions();
-
-
              if(isHeadless){
                  chromeOption.addArguments("--headless");
              }
                 webdriver=new ChromeDriver(chromeOption);
              break;
-
             case EDGE:
                 WebDriverManager.edgedriver().setup();
                 edgeOptions=new EdgeOptions();
@@ -67,7 +65,6 @@ public class DriverFactory {
                 }
                 webdriver=new EdgeDriver(edgeOptions);
                 break;
-
             case FIREFOX:
                 WebDriverManager.firefoxdriver().setup();
                 firefoxOptions=new FirefoxOptions();
@@ -76,12 +73,10 @@ public class DriverFactory {
                 }
                 webdriver=new FirefoxDriver(firefoxOptions);
                 break;
-
             case SAFARI:
                 WebDriverManager.safaridriver().setup();
                 webdriver = new SafariDriver();
                 break;
-
             default:
                 throw new IllegalArgumentException("browser is out of list" +browser);
 
@@ -102,7 +97,7 @@ public class DriverFactory {
 
     public static void quitDriver(){
 
-        if(driver!=null){
+        if (driver.get() != null) {
             driver.get().quit();
             driver.remove();
 

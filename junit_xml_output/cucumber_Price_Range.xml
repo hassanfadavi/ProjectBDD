@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="196.426" tests="3" skipped="0" failures="0" errors="0">
+<testcase classname="Verify Maximum and Minimum Price Range Filter Works" name="Price Range Filtering on Search Results Page - #1.1" time="64.685">
+<system-out><![CDATA[
+Given The user is on flipKart home page.....................................passed
+When I enter productname in search bar "Washing Machine"....................passed
+And I click Search button...................................................passed
+Then I must be navigated to search page.....................................passed
+When the user sets the minimum price filter to "15000"......................passed
+And sets the maximum price filter to "25000"................................passed
+When the user selects the Price Low to High sorting option..................passed
+Then the products displayed should have prices greater than or equal to "15000".passed
+When the user selects the Price High to Low  sorting option.................passed
+Then the products displayed should have prices less than or equal to "25000".passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify Maximum and Minimum Price Range Filter Works" name="Price Range Filtering on Search Results Page - #1.2" time="66.334">
+<system-out><![CDATA[
+Given The user is on flipKart home page.....................................passed
+When I enter productname in search bar "t shirt"............................passed
+And I click Search button...................................................passed
+Then I must be navigated to search page.....................................passed
+When the user sets the minimum price filter to "500"........................passed
+And sets the maximum price filter to "1000".................................passed
+When the user selects the Price Low to High sorting option..................passed
+Then the products displayed should have prices greater than or equal to "500".passed
+When the user selects the Price High to Low  sorting option.................passed
+Then the products displayed should have prices less than or equal to "1000".passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify Maximum and Minimum Price Range Filter Works" name="Price Range Filtering on Search Results Page - #1.3" time="64.718">
+<system-out><![CDATA[
+Given The user is on flipKart home page.....................................passed
+When I enter productname in search bar "watch for men"......................passed
+And I click Search button...................................................passed
+Then I must be navigated to search page.....................................passed
+When the user sets the minimum price filter to "2000".......................passed
+And sets the maximum price filter to "10000"................................passed
+When the user selects the Price Low to High sorting option..................passed
+Then the products displayed should have prices greater than or equal to "2000".passed
+When the user selects the Price High to Low  sorting option.................passed
+Then the products displayed should have prices less than or equal to "10000".passed
+]]></system-out>
+</testcase>
+</testsuite>

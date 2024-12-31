@@ -90,30 +90,30 @@ public class TestFunction extends BaseTest {
 
 
 //
-    @Test
-    public void test_Max_Min_price() throws InterruptedException {
-
-        this.landingPage = new LandingPage(driver);
-        WaitUtils.applyGlobalWait();
-        landingPage.searchInput("Washing Machine");
-        landingPage.enterKey();
-
-        WaitUtils.applyGlobalWait();
-
-        this.searchPage=new SearchPage(driver);
-        searchPage.selectMaxPrice("25000");
-        WaitUtils.applyGlobalWait();
-
-        searchPage.selectMinPrice("15000");
-        WaitUtils.applyGlobalWait();
-        searchPage.clickOnPriceLowToHigh();
-        WaitUtils.applyGlobalWait();
-        searchPage.pricesLowToHigh(25000);
-        WaitUtils.applyGlobalWait();
-        searchPage.pricesHighToLow(15000);
-
-
-        }
+//    @Test
+//    public void test_Max_Min_price() throws InterruptedException {
+//
+//        this.landingPage = new LandingPage(driver);
+//        WaitUtils.applyGlobalWait();
+//        landingPage.searchInput("Washing Machine");
+//        landingPage.enterKey();
+//
+//        WaitUtils.applyGlobalWait();
+//
+//        this.searchPage=new SearchPage(driver);
+//        searchPage.selectMaxPrice("25000");
+//        WaitUtils.applyGlobalWait();
+//
+//        searchPage.selectMinPrice("15000");
+//        WaitUtils.applyGlobalWait();
+//        searchPage.clickOnPriceLowToHigh();
+//        WaitUtils.applyGlobalWait();
+//        searchPage.pricesLowToHigh(25000);
+//        WaitUtils.applyGlobalWait();
+//        searchPage.pricesHighToLow(15000);
+//
+//
+//        }
 
 
 
@@ -234,7 +234,48 @@ public class TestFunction extends BaseTest {
 //
 
 
+    @Test
+    public void discount(){
 
+
+        selectPercentages("60% or more");
+        percentage("60% or more");
+
+
+    }
+
+
+
+    public void selectPercentages(String percentages){
+
+    List<WebElement> discountList = driver.findElements(By.xpath("//div[@class='SDsN9S']//div[@class='bs1+1t']//div[@class='ewzVkT _3DvUAf']"));
+        for(   WebElement dis : discountList   ){
+        String d=dis.getAttribute("title");
+        d=percentages;
+        if (  d.equals("60% or more") ) {
+            driver.findElement(By.xpath("//div[text()='60% or more']")).click();
+        }
+        break;
+    }
+
+    }
+
+
+    public  void percentage(String p){
+        List<WebElement> percentageList = driver.findElements(By.xpath("//div[@class='UkUFwK']//span"));
+
+        WebElement  firtProduct=percentageList.get(0);
+
+        int firstpercent=Integer.parseInt(firtProduct.getText().replaceAll("% off",""));
+
+        int minConvertPer= Integer.parseInt(p.replaceAll("% or more",""));
+        System.out.println(firstpercent);
+
+        if( (firstpercent>minConvertPer || firstpercent==minConvertPer) ){
+            System.out.println("ok");
+        }else System.out.println("not ok");
+
+    }
 
 
 }

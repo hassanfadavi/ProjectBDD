@@ -27,9 +27,13 @@ public class ActionsDemo {
         this.element=el;
         ac.click(el).perform();
     }
-    public void actionMousehover(WebElement el){
+    public void actionMousehoverClick(WebElement el){
         this.element=el;
         ac.moveToElement(el).click().perform();
+    }
+    public void actionMouseHover(WebElement el){
+        this.element=el;
+        ac.moveToElement(el).perform();
     }
     public void actionMousedoubleClick(WebElement el){
         this.element=el;

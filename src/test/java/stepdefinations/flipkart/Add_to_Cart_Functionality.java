@@ -78,7 +78,7 @@ public class Add_to_Cart_Functionality extends BaseTest {
     public void I_click_the_Add_to_Cart_button() {
         this.productDetailPage=new ProductDetailPage(driver);
         WaitUtils.applyGlobalWait();
-        WaitUtils.applyWait(driver,productDetailPage.addToCartButton,WaitStrategy.CLICKABLE);
+//        WaitUtils.applyWait(driver,productDetailPage.addToCartButton,WaitStrategy.CLICKABLE);
         productDetailPage.addToCart();
         WaitUtils.applyGlobalWait();
 

@@ -13,33 +13,30 @@ public class BaseTest {
 
     protected WebDriver driver;
 
-    protected static final Logger logger= LogManager.getLogger();
+    protected static final Logger logger = LogManager.getLogger();
 
 
     @BeforeMethod
     public void setUp() {
 
-            this.driver = DriverFactory.getDriver();
-            driver.get(ConfigManager.getProperty("baseUrl"));
-            logger.info("start the test with the :{  " + ConfigManager.getProperty("baseUrl") + "  }");
+        this.driver = DriverFactory.getDriver();
+        driver.get(ConfigManager.getProperty("baseUrl"));
+        logger.info("start the test with the :{  " + ConfigManager.getProperty("baseUrl") + "  }");
 
 
     }
-
-
-
-
 
 
     @AfterMethod
-    public void tearDown(){
-//        DriverFactory.quitDriver();
-//        logger.info("Driver instance is quit after the test");
+    public void tearDown() {
+        DriverFactory.quitDriver();
+        logger.info("Driver instance is quit after the test");
+//    }
+
     }
+}
 
-
-
-
+//
 //    public static void main(String[] args) {
 //
 //        BaseTest obj=new BaseTest();
@@ -50,4 +47,4 @@ public class BaseTest {
 
 
 
-}
+

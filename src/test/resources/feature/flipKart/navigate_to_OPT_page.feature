@@ -14,3 +14,5 @@ Feature: Enter valid email and navigate to opt page page
     Examples:
       | inputEmail       |
       | hassan@gmail.com |
+
+

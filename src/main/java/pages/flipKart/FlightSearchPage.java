@@ -71,7 +71,7 @@ public class FlightSearchPage {
         System.out.println(days.size());
         for(   WebElement   day:days     ){
             if(day.getText().equals(dayss)){
-                actionsDemo.actionMousehover(day);
+                actionsDemo.actionMousehoverClick(day);
                 break;
             }
         }

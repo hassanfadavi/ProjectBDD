@@ -12,12 +12,12 @@ import io.cucumber.testng.CucumberOptions;
                 "pretty",
                 "html:test-output",
                 "json:json_output/cucumber.json",
-                "junit:junit_xml_output/cucumber.xml"},
+                "junit:junit_xml_output/cucumber_cucumber.xml"},
         dryRun = false,
         monochrome = true,
-//          tags="@navigate_to_login_page"
+          tags="@navigate_to_login_page"
 //      tags="@navigate_to_opt_page"
-         tags ="@Product_Search"
+//         tags ="@Product_Search"
 //        tags = "@add_product_to_cart"
 //        tags ="@Price_Range"
 //        tags ="@Flight_Search"
