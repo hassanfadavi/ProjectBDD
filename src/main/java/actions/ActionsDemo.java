@@ -20,9 +20,9 @@ public class ActionsDemo {
         this.driver=driver;
         ac=new Actions(driver);
     }
-    
 
-   //mouse actions
+
+    //********************************* mouse actions************************
     public void actionMouseClick(WebElement el){
         this.element=el;
         ac.click(el).perform();
@@ -40,12 +40,21 @@ public class ActionsDemo {
         ac.doubleClick(el).perform();
     }
 
+    public void actionMouseRightClick(WebElement el){
+        this.element=el;
+        ac.contextClick(el).perform();
+    }
+
+    public void actionMouseDragAndDrop(WebElement source,WebElement target){
+        ac.dragAndDrop(source,target).perform();
+    }
 
 
 
 
 
-    //keyboard actions
+
+    //*********************************  keyboard actions**********************************
     public void sendKeyAction(WebElement el,String str) throws InterruptedException {
         this.element=el;
         ac.click(el).perform();
@@ -58,6 +67,26 @@ public class ActionsDemo {
     public void enterKeyAction()   {
         ac.keyDown(Keys.ENTER).perform();
     }
+
+    public void tabKeyAction()   {
+        ac.keyDown(Keys.TAB).perform();
+    }
+
+    public void ctlVKeyAction()   {
+        ac.keyDown(Keys.CONTROL).sendKeys("V").keyUp(Keys.CONTROL).perform();
+    }
+
+
+
+    public void ctlAKeyAction()   {
+        ac.keyDown(Keys.CONTROL).sendKeys("A").keyUp(Keys.CONTROL).perform();
+    }
+
+    public void ctlCKeyAction()   {
+        ac.keyDown(Keys.CONTROL).sendKeys("C").keyUp(Keys.CONTROL).perform();
+    }
+
+
 
 
 

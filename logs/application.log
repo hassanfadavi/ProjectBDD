@@ -4891,3 +4891,810 @@
 2024-12-31 00:07:00 INFO  BaseTest:33 - Driver instance is quit after the test
 2024-12-31 00:07:00 INFO  BaseTest:33 - Driver instance is quit after the test
 2024-12-31 00:07:00 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 11:26:50 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 11:26:50 INFO  ConfigManager:48 - Configuration loaded for { CHROME } browser: 
+2025-01-02 11:27:14 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 11:27:22 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 11:27:24 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 11:27:29 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 11:27:33 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 11:27:39 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 11:27:40 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 11:27:40 INFO  BaseTest:41 - pou up windows is closed 
+2025-01-02 11:27:41 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 11:27:41 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 11:27:41 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 11:27:41 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 11:27:41 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 11:27:41 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 11:27:41 INFO  ConfigManager:48 - Configuration loaded for { CHROME } browser: 
+2025-01-02 11:27:49 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 11:27:57 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 11:27:59 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 11:28:04 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 11:28:06 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 11:28:12 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 11:28:14 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 11:28:14 INFO  BaseTest:41 - pou up windows is closed 
+2025-01-02 11:28:14 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 11:28:14 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 11:28:14 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 11:28:14 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 11:28:14 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 11:28:14 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:40:05 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 12:40:06 INFO  ConfigManager:48 - Configuration loaded for { CHROME } browser: 
+2025-01-02 12:40:17 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 12:40:22 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:40:22 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:40:22 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:40:22 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:40:22 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:40:22 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:40:57 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 12:40:57 INFO  ConfigManager:48 - Configuration loaded for { CHROME } browser: 
+2025-01-02 12:41:03 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 12:41:07 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 12:41:07 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 12:41:11 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 12:41:11 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 12:41:15 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 12:41:15 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 12:41:16 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:41:16 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:41:16 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:41:16 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:41:16 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:41:16 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:41:29 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 12:41:29 INFO  ConfigManager:48 - Configuration loaded for { CHROME } browser: 
+2025-01-02 12:41:34 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:41:39 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:41:39 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:41:43 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:41:43 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:41:47 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:41:47 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:41:48 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:41:48 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:41:48 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:41:48 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:41:48 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:41:48 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:42:23 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 12:42:23 INFO  ConfigManager:48 - Configuration loaded for { CHROME } browser: 
+2025-01-02 12:42:32 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:42:36 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:42:37 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:42:41 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:42:41 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:42:45 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:42:46 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:42:46 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:42:46 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:42:46 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:42:46 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:42:46 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:42:46 INFO  BaseTest:33 - Driver instance is quit after the test
+2025-01-02 12:51:05 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 12:51:05 INFO  ConfigManager:48 - Configuration loaded for { CHROME } browser: 
+2025-01-02 12:51:08 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:52:41 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 12:52:41 INFO  ConfigManager:48 - Configuration loaded for { CHROME } browser: 
+2025-01-02 12:52:46 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:56:08 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 12:56:08 INFO  ConfigManager:48 - Configuration loaded for { CHROME } browser: 
+2025-01-02 12:56:12 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:57:06 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 12:57:06 INFO  ConfigManager:48 - Configuration loaded for { FIREFOX } browser: 
+2025-01-02 12:57:15 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:57:42 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 12:57:42 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 12:57:53 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 12:58:43 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 12:58:43 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 12:58:48 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 13:03:58 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 13:03:58 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 13:04:05 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 13:07:34 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 13:07:34 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 13:07:39 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 13:11:22 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 13:11:22 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 13:11:28 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 13:34:33 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 13:34:33 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 13:34:39 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 13:41:36 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 13:41:36 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 13:41:42 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 13:42:33 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 13:42:33 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 13:42:41 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 13:44:37 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 13:44:37 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 13:44:43 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 13:47:37 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 13:47:37 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 13:47:43 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 13:53:45 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 13:53:45 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 13:53:52 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 13:55:32 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 13:55:32 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 13:55:38 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 13:59:28 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 13:59:28 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 13:59:35 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 14:36:47 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 14:36:47 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 14:36:57 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 14:38:16 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 14:38:16 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 14:38:22 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 14:39:19 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 14:39:19 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 14:39:25 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 14:39:41 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 14:39:41 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 14:39:47 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 14:40:03 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 14:40:03 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 14:40:09 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 14:41:47 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 14:41:47 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 14:41:53 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 14:45:12 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 14:45:12 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 14:45:19 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 14:46:30 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 14:46:30 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 14:46:36 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 14:47:45 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 14:47:45 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 14:47:50 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 14:49:28 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 14:49:28 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 14:49:35 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 14:52:57 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 14:52:57 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 14:53:06 INFO  BaseTest:24 - start the test with the :{  https://www.amazonP.com/  }
+2025-01-02 14:57:43 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 14:57:43 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 14:57:52 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=watch&i=fashion-mens&ref=nb_sb_noss  }
+2025-01-02 15:09:46 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:09:46 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:09:54 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=watch&i=fashion-mens&ref=nb_sb_noss  }
+2025-01-02 15:12:22 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:12:22 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:12:31 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=watch&i=fashion-womens&rh=n%3A7147440011&dc&crid=ZK98V8AALVRK&qid=1735848528&rnid=85457740011&sprefix=watch%2Cfashion-womens%2C66&ref=sr_nr_p_123_1&ds=v1%3AuRzGX5AzqcQ1GhmFGFbt73nuBTjxGzHgsIYxvEkLkec  }
+2025-01-02 15:12:58 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:12:58 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:13:03 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=watch&i=fashion-womens&rh=n%3A7147440011&dc&crid=ZK98V8AALVRK&qid=1735848528&rnid=85457740011&sprefix=watch%2Cfashion-womens%2C66&ref=sr_nr_p_123_1&ds=v1%3AuRzGX5AzqcQ1GhmFGFbt73nuBTjxGzHgsIYxvEkLkec  }
+2025-01-02 15:18:30 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:18:30 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:18:39 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=watch&i=fashion-womens&rh=n%3A7147440011&dc&crid=ZK98V8AALVRK&qid=1735848528&rnid=85457740011&sprefix=watch%2Cfashion-womens%2C66&ref=sr_nr_p_123_1&ds=v1%3AuRzGX5AzqcQ1GhmFGFbt73nuBTjxGzHgsIYxvEkLkec  }
+2025-01-02 15:19:48 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:19:48 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:19:56 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=watch&i=fashion-mens&rh=n%3A7147441011%2Cp_123%3A235696&dc&ds=v1%3AJVsXKnQhVC5c1r0YZL8qdCdy4k6oLmPIKmRhNpU%2FhBw&qid=1735847660&rnid=85457740011&ref=sr_nr_p_123_1  }
+2025-01-02 15:25:49 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:25:49 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:25:57 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=watch&i=fashion-mens&rh=n%3A7147441011%2Cp_123%3A235696&dc&ds=v1%3AJVsXKnQhVC5c1r0YZL8qdCdy4k6oLmPIKmRhNpU%2FhBw&qid=1735847660&rnid=85457740011&ref=sr_nr_p_123_1  }
+2025-01-02 15:27:20 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:27:20 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:27:30 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=watch&i=fashion-mens&rh=n%3A7147441011%2Cp_123%3A235696&dc&ds=v1%3AJVsXKnQhVC5c1r0YZL8qdCdy4k6oLmPIKmRhNpU%2FhBw&qid=1735847660&rnid=85457740011&ref=sr_nr_p_123_1  }
+2025-01-02 15:27:55 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:27:55 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:28:04 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=watch&i=fashion-mens&rh=n%3A7147441011%2Cp_123%3A235696&dc&ds=v1%3AJVsXKnQhVC5c1r0YZL8qdCdy4k6oLmPIKmRhNpU%2FhBw&qid=1735847660&rnid=85457740011&ref=sr_nr_p_123_1  }
+2025-01-02 15:29:32 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:29:32 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:29:42 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=watch&i=fashion-womens&crid=D30NX6WQ3K7B&sprefix=watch%2Cfashion-womens%2C193&ref=nb_sb_noss_1  }
+2025-01-02 15:30:36 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:30:36 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:30:45 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=watch&i=fashion-womens&crid=D30NX6WQ3K7B&sprefix=watch%2Cfashion-womens%2C193&ref=nb_sb_noss_1  }
+2025-01-02 15:31:59 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:31:59 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:32:09 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=watch&i=fashion-girls&crid=1GB4G19UQMECH&sprefix=watch%2Cfashion-girls%2C92&ref=nb_sb_noss_1  }
+2025-01-02 15:40:21 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:40:21 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:40:32 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 15:40:47 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:40:47 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:40:53 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 15:41:18 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:41:18 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:41:29 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 15:41:38 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:41:38 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:41:47 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 15:41:56 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:41:56 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:42:06 INFO  BaseTest:24 - start the test with the :{  https://www.flipkart.com/  }
+2025-01-02 15:42:27 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:42:27 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:42:33 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 15:45:40 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:45:40 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:45:48 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 15:59:33 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:59:33 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:59:43 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 15:59:43 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 15:59:49 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:01:24 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:01:24 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:01:29 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:01:43 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:01:43 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:01:50 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:02:39 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:02:39 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:02:45 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:03:07 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:03:07 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:03:14 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:08:02 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:08:02 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:08:11 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:08:11 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:08:21 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:12:05 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:12:05 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:12:12 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:30:41 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:30:41 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:30:47 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:31:01 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:31:25 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:31:25 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:31:32 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:31:52 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:31:52 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:31:58 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:33:16 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:33:16 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:33:24 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:34:24 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:34:24 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:34:31 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:34:32 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:34:36 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:34:37 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:34:42 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:34:42 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:35:07 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:35:07 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:35:13 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:36:12 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:36:12 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:36:18 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:38:04 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:38:04 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:38:10 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:39:40 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:39:40 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:39:46 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:41:06 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:41:06 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:41:11 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:41:48 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:41:48 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:41:54 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:42:44 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:42:44 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:42:50 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:43:04 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:43:44 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:43:44 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:43:49 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:43:55 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:44:16 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:44:16 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:44:22 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:44:36 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:44:50 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:54:49 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:54:49 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:54:55 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:55:14 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:55:34 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-02 16:55:35 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-02 16:55:41 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-02 16:56:00 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-04 08:36:35 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 08:36:35 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 08:36:39 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-04 08:36:51 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 08:36:51 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 08:36:58 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-04 08:37:19 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-04 08:48:05 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 08:48:05 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 08:48:11 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-04 08:48:22 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 08:48:22 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 08:48:28 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-04 08:48:41 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 08:48:41 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 08:48:47 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-04 08:50:01 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 08:50:01 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 08:50:07 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-04 08:51:38 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 08:51:38 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 08:51:46 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-04 08:54:31 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 08:54:31 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 08:54:36 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-04 09:02:10 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 09:02:10 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 09:02:16 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-04 09:03:57 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 09:03:57 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 09:04:03 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/  }
+2025-01-04 09:55:33 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 09:55:33 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 09:55:41 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 10:00:41 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:00:41 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:00:47 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 10:01:07 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:01:07 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:01:14 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 10:03:30 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:03:30 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:03:36 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 10:04:08 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:04:08 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:04:16 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 10:05:04 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:05:04 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:05:14 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 10:08:49 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:08:49 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:08:57 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 10:13:01 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:13:01 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:13:09 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 10:14:08 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:14:08 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:14:15 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 10:14:35 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:14:35 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:14:42 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 10:15:00 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:15:00 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:15:08 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 10:15:19 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:15:19 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:15:26 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 10:16:53 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:16:53 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:17:00 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 10:18:40 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:18:40 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:18:46 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 10:19:22 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:19:22 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:19:29 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 10:20:03 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:20:03 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:20:10 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 10:21:26 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:21:26 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:21:34 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:23:19 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:23:19 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:23:27 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:23:41 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:23:41 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:23:51 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:24:40 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:24:40 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:24:49 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:25:11 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:25:11 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:25:19 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:25:39 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:25:39 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:25:47 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:26:00 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:26:00 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:26:08 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:26:39 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:26:39 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:26:49 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:27:41 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:27:41 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:27:50 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:28:39 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:28:39 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:28:49 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:29:06 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:29:06 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:29:15 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:30:24 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:30:24 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:30:29 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:31:44 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:31:44 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:31:53 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:32:15 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:32:15 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:32:24 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:32:41 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:32:41 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:32:48 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:33:24 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:33:24 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:33:32 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:33:56 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:33:56 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:34:07 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:34:51 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:34:51 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:35:02 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:40:20 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:40:20 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:40:25 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:41:03 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:41:03 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:41:11 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:41:47 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:41:47 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:41:54 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:46:03 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:46:03 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:46:11 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:46:49 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:46:49 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:46:56 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:47:17 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:47:17 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:47:22 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:48:58 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:48:58 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:49:05 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:50:14 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:50:14 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:50:22 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:50:46 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:50:46 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:50:53 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:51:29 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:51:29 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:51:38 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:53:56 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:53:56 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:54:05 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:54:37 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:54:37 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:54:44 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 10:55:16 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 10:55:16 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 10:55:26 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:02:04 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:02:04 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:02:12 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:03:21 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:03:21 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:03:29 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:05:38 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:05:38 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:05:45 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:06:02 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:06:02 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:06:11 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:09:14 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:09:14 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:09:22 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:09:41 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:09:41 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:09:49 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:10:17 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:10:17 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:10:27 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:11:42 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:11:42 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:11:51 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:12:11 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:12:11 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:12:17 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:12:33 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:12:33 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:12:41 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:12:56 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:12:56 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:13:03 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:13:15 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:13:15 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:13:23 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:13:39 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:13:39 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:13:47 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:15:10 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:15:10 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:15:18 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:15:54 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:15:54 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:16:03 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:17:34 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:17:34 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:17:39 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:18:09 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:18:09 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:18:17 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:19:05 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:19:05 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:19:13 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:19:53 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:19:53 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:20:01 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:20:18 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:20:18 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:20:28 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:21:07 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:21:07 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:21:18 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:23:13 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:23:13 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:23:23 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:25:29 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:25:29 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:25:39 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:26:42 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:26:42 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:26:53 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:28:17 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:28:17 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:28:28 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:32:44 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:32:44 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:32:49 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:33:14 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:33:14 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:33:23 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:36:03 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:36:03 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:36:13 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:36:52 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:36:52 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:37:03 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:39:03 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:39:03 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:39:15 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:40:10 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:40:10 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:40:15 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:41:35 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:41:35 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:41:42 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:50:24 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:50:24 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:50:32 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:51:41 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:51:41 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:51:49 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 11:53:24 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 11:53:24 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 11:53:32 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:10:27 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:10:27 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:10:33 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:10:53 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:10:53 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:11:01 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:11:17 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:11:17 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:11:26 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:11:47 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:11:47 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:12:01 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:12:25 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:12:25 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:12:33 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:13:04 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:13:04 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:13:12 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:13:47 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:13:47 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:13:56 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:20:29 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:20:29 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:20:38 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:23:09 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:23:09 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:23:17 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:25:44 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:25:44 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:25:53 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:26:15 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:26:15 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:26:19 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:27:03 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:27:03 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:27:08 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:28:32 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:28:32 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:28:38 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:28:53 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:28:53 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:29:03 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:30:24 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:30:24 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:30:30 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:31:55 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:31:55 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:32:04 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:34:02 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:34:02 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:34:11 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:34:52 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:34:52 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:35:07 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:35:31 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:35:31 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:35:40 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:36:08 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:36:08 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:36:18 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 12:37:09 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 12:37:09 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 12:37:20 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 22:05:59 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:05:59 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:06:08 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher  }
+2025-01-04 22:06:37 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:06:37 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:06:43 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 22:15:09 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:15:09 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:15:18 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 22:17:37 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:17:37 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:17:44 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 22:18:04 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:18:04 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:18:11 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 22:18:43 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:18:43 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:18:51 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 22:20:15 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:20:15 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:20:21 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 22:23:21 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:23:21 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:23:31 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=Apple+AirTag&i=electronics&rh=n%3A172282&dc&crid=3KBA3F90KZ6UT&qid=1736000310&rnid=85457740011&sprefix=apple+airt%2Celectronics%2C212&ref=sr_nr_p_123_1&ds=v1%3AlU0Z5HxQDJ817Yr6MmtXu%2BU5NowGFitcGy%2FMlmBC2YE  }
+2025-01-04 22:24:02 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:24:02 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:24:10 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=apple+tag&rh=n%3A172282%2Cp_123%3A195807&dc&ds=v1%3ASld%2B6Ulv8VsSRncOWp4Q52%2FAdcZCFVZ9lwN9cN5JdNo&qid=1736046367&rnid=85457740011&ref=sr_nr_p_123_4  }
+2025-01-04 22:31:25 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:31:25 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:31:32 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 22:31:59 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:31:59 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:32:07 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 22:32:37 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:32:37 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:32:45 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 22:33:05 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:33:05 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:33:10 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 22:44:10 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:44:10 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:44:17 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 22:44:43 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:44:43 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:44:51 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 22:45:20 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:45:20 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:45:29 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 22:46:26 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:46:26 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:46:34 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 22:48:10 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:48:10 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:48:18 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 22:49:01 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:49:01 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:49:12 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 22:50:05 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:50:05 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:50:17 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 22:59:37 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 22:59:37 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 22:59:45 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 23:02:57 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 23:02:57 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 23:03:06 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 23:03:38 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 23:03:38 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 23:03:46 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 23:04:08 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 23:04:08 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 23:04:16 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 23:04:49 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 23:04:49 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 23:04:58 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 23:05:20 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 23:05:20 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 23:05:29 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 23:05:53 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 23:05:53 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 23:06:02 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 23:06:36 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 23:06:36 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 23:06:46 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com/s?k=dishwasher&i=appliances&crid=1XMKYOXSXNZ26&sprefix=dishwasher%2Cappliances%2C91&ref=nb_sb_noss_1  }
+2025-01-04 23:14:11 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 23:14:11 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 23:14:18 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-04 23:18:42 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 23:18:42 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 23:18:48 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-04 23:19:15 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 23:19:15 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 23:19:21 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-04 23:27:37 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 23:27:37 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 23:27:46 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-04 23:34:59 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 23:34:59 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 23:35:06 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-04 23:40:27 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 23:40:27 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 23:40:32 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-04 23:47:02 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 23:47:02 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 23:47:09 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-04 23:53:25 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-04 23:53:25 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-04 23:53:32 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:24:14 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-05 00:24:14 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-05 00:24:21 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:25:13 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-05 00:25:13 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-05 00:25:18 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:25:46 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:27:13 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-05 00:27:13 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-05 00:27:19 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:28:11 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-05 00:28:11 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-05 00:28:19 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:29:58 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-05 00:29:58 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-05 00:30:09 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:32:40 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-05 00:32:40 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-05 00:32:48 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:32:49 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:32:55 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:32:55 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:33:01 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:33:02 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:33:07 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:33:07 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:33:33 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:33:33 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:33:38 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:33:38 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:33:43 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:33:43 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:33:48 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:33:48 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:34:45 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-05 00:34:45 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-05 00:34:51 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:35:15 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:37:38 INFO  ConfigManager:42 - TEST environment has been loaded 
+2025-01-05 00:37:38 INFO  ConfigManager:48 - Configuration loaded for { EDGE } browser: 
+2025-01-05 00:37:45 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:37:46 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:37:50 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:37:51 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:37:55 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:37:56 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:38:00 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }
+2025-01-05 00:38:01 INFO  BaseTest:24 - start the test with the :{  https://www.amazon.com   }

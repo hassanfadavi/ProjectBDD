@@ -1,31 +1,13 @@
 package Test;
 
-import Utils.WaitUtils;
 import actions.ActionsDemo;
 import base.BaseTest;
-import config.ConfigManager;
-import enums.WaitStrategy;
-import org.openqa.selenium.By;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedConditions;
-import org.openqa.selenium.support.ui.Select;
-import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.annotations.Test;
 import pages.flipKart.LandingPage;
-import pages.flipKart.LoginPage;
-import pages.flipKart.ProductDetailPage;
 import pages.flipKart.SearchPage;
 
-import javax.sql.rowset.BaseRowSet;
-import java.time.Duration;
-import java.util.ArrayList;
-import java.util.List;
 
-
-public class TestFunction extends BaseTest {
+public class TestFunction_FlipKart extends BaseTest {
 
 
 
@@ -233,49 +215,49 @@ public class TestFunction extends BaseTest {
 //
 //
 
+//
+//    @Test
+//    public void discount(){
+//
+//
+//        selectPercentages("60% or more");
+//        percentage("60% or more");
+//
+//
+//    }
 
-    @Test
-    public void discount(){
-
-
-        selectPercentages("60% or more");
-        percentage("60% or more");
-
-
-    }
-
-
-
-    public void selectPercentages(String percentages){
-
-    List<WebElement> discountList = driver.findElements(By.xpath("//div[@class='SDsN9S']//div[@class='bs1+1t']//div[@class='ewzVkT _3DvUAf']"));
-        for(   WebElement dis : discountList   ){
-        String d=dis.getAttribute("title");
-        d=percentages;
-        if (  d.equals("60% or more") ) {
-            driver.findElement(By.xpath("//div[text()='60% or more']")).click();
-        }
-        break;
-    }
-
-    }
-
-
-    public  void percentage(String p){
-        List<WebElement> percentageList = driver.findElements(By.xpath("//div[@class='UkUFwK']//span"));
-
-        WebElement  firtProduct=percentageList.get(0);
-
-        int firstpercent=Integer.parseInt(firtProduct.getText().replaceAll("% off",""));
-
-        int minConvertPer= Integer.parseInt(p.replaceAll("% or more",""));
-        System.out.println(firstpercent);
-
-        if( (firstpercent>minConvertPer || firstpercent==minConvertPer) ){
-            System.out.println("ok");
-        }else System.out.println("not ok");
-
-    }
+//
+//
+//    public void selectPercentages(String percentages){
+//
+//    List<WebElement> discountList = driver.findElements(By.xpath("//div[@class='SDsN9S']//div[@class='bs1+1t']//div[@class='ewzVkT _3DvUAf']"));
+//        for(   WebElement dis : discountList   ){
+//        String d=dis.getAttribute("title");
+//        d=percentages;
+//        if (  d.equals("60% or more") ) {
+//            driver.findElement(By.xpath("//div[text()='60% or more']")).click();
+//        }
+//        break;
+//    }
+//
+//    }
+//
+//
+//    public  void percentage(String p){
+//        List<WebElement> percentageList = driver.findElements(By.xpath("//div[@class='UkUFwK']//span"));
+//
+//        WebElement  firtProduct=percentageList.get(0);
+//
+//        int firstpercent=Integer.parseInt(firtProduct.getText().replaceAll("% off",""));
+//
+//        int minConvertPer= Integer.parseInt(p.replaceAll("% or more",""));
+//        System.out.println(firstpercent);
+//
+//        if( (firstpercent>minConvertPer || firstpercent==minConvertPer) ){
+//            System.out.println("ok");
+//        }else System.out.println("not ok");
+//
+//    }
 
 
 }

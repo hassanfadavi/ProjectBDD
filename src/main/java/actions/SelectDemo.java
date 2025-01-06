@@ -9,8 +9,16 @@ public class SelectDemo {
 
 
     public void selecteByValue(WebElement el,String value){
+
        Select select=new Select(el);
         select.selectByValue(value);
+
+    }
+
+    public void selecteByVisibleText(WebElement el,String value){
+
+        Select select=new Select(el);
+        select.selectByVisibleText(value);
 
     }
 

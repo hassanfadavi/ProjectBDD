@@ -29,8 +29,8 @@ public class BaseTest {
 
     @AfterMethod
     public void tearDown() {
-        DriverFactory.quitDriver();
-        logger.info("Driver instance is quit after the test");
+//        DriverFactory.quitDriver();
+//        logger.info("Driver instance is quit after the test");
 //    }
 
     }
