@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="101.33" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Find the maximum price for Best Sellers in a specific department" name="User clicks on Best Sellers, selects a department, and finds the maximum price - #1.1" time="101.071">
+<system-out><![CDATA[
+Given The user is on amazon home page.......................................passed
+When the user clicks on Best sellers link...................................passed
+Then the user will be navigated to Amazon Best seller.......................passed
+And the user selects the specific department from the left side bar "Baby"..passed
+And the user will be navigated to Best Sellers in specific department "Baby".passed
+And the user extracts the prices of all best-selling items in two pages.....passed
+And the user clicks on the product corresponding to the maximum price.......passed
+]]></system-out>
+</testcase>
+</testsuite>

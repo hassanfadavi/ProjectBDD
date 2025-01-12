@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="63.339" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="Enter valid email and navigate to opt page page" name="Login with valid email and navigate to opt page - #1.1" time="63.13">
+<failure type="org.openqa.selenium.NoSuchElementException" message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//div[@class='r6+Mxy']//div[text()='Please enter the OTP sent to']&quot;}
+  (Session info: MicrosoftEdge=131.0.2903.146)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.24'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [87d6311c0c2c645c8960554d8e702713, findElement {using=xpath, value=//div[@class='r6+Mxy']//div[text()='Please enter the OTP sent to']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.146, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51287}, msedge: {msedgedriverVersion: 131.0.2903.146 (99fcb90c1ee..., userDataDir: C:\Users\hassan\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51287/devtoo..., se:cdpVersion: 131.0.2903.146, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 87d6311c0c2c645c8960554d8e702713">
+<![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='r6+Mxy']//div[text()='Please enter the OTP sent to']"}
+  (Session info: MicrosoftEdge=131.0.2903.146)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.26.0', revision: '8ccf0219d7'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.24'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [87d6311c0c2c645c8960554d8e702713, findElement {using=xpath, value=//div[@class='r6+Mxy']//div[text()='Please enter the OTP sent to']}]
+Capabilities {acceptInsecureCerts: false, browserName: MicrosoftEdge, browserVersion: 131.0.2903.146, fedcm:accounts: true, ms:edgeOptions: {debuggerAddress: localhost:51287}, msedge: {msedgedriverVersion: 131.0.2903.146 (99fcb90c1ee..., userDataDir: C:\Users\hassan\AppData\Loc...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51287/devtoo..., se:cdpVersion: 131.0.2903.146, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 87d6311c0c2c645c8960554d8e702713
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at pages.flipKart.OptPage.<init>(OptPage.java:16)
+	at stepdefinations.flipkart.Enter_valid_email_and_navigate_to_opt_page.I_should_see_the_OTP(Enter_valid_email_and_navigate_to_opt_page.java:67)
+	at ✽.I should see the OTP message(file:///C:/Users/hassan/Desktop/SDET/project/LMS-draft-master/ProjectBDD/src/test/resources/feature/flipKart/navigate_to_OPT_page.feature:12)
+]]>
+</failure>
+<system-out><![CDATA[
+Given The user is on flipKart home page.....................................passed
+When I double click on login button.........................................passed
+Then The user is  on flipKart login page....................................passed
+And I enter valid email address "hassan@gmail.com"..........................passed
+When I click on RequestOTP button...........................................passed
+Then I should see the OTP message...........................................failed
+]]></system-out>
+</testcase>
+</testsuite>

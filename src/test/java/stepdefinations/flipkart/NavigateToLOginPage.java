@@ -4,15 +4,20 @@ import Utils.WaitUtils;
 import base.BaseTest;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
+import io.cucumber.java.Scenario;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import io.qameta.allure.Allure;
 import org.openqa.selenium.By;
 import org.openqa.selenium.ElementNotInteractableException;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.testng.Assert;
 import pages.flipKart.LandingPage;
 import pages.flipKart.LoginPage;
 
+import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.util.concurrent.ThreadLocalRandom;
 
@@ -67,10 +72,14 @@ public class NavigateToLOginPage extends BaseTest {
     }
 
 
-
     @After
-    public void tear(){
+    public void tear(Scenario scenario){
+        if (scenario.isFailed()) {
+            byte[] screenshot=((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
+            Allure.addAttachment("Failed Screenshot",new ByteArrayInputStream(screenshot));
+        }
         tearDown();
+
     }
 
 

@@ -17,6 +17,4 @@ Feature: Verify_Discount_Filter_Functionality
       | Discount Percentage |
       | 30% or more         |
       | 60% or more         |
-#      | 40% or more         |
-#      | 50% or more         |
-#      | 70% or more         |
+

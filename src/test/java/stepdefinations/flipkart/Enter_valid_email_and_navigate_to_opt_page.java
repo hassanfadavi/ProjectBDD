@@ -4,14 +4,20 @@ import Utils.WaitUtils;
 import base.BaseTest;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
+import io.cucumber.java.Scenario;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import io.qameta.allure.Allure;
 import org.junit.Assert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebElement;
 import pages.flipKart.LoginPage;
 import pages.flipKart.OptPage;
+
+import java.io.ByteArrayInputStream;
 
 
 public class Enter_valid_email_and_navigate_to_opt_page extends BaseTest {
@@ -71,8 +77,13 @@ public class Enter_valid_email_and_navigate_to_opt_page extends BaseTest {
 
 
     @After
-    public void tear(){
+    public void tear(Scenario scenario){
+        if (scenario.isFailed()) {
+            byte[] screenshot=((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
+            Allure.addAttachment("Failed Screenshot",new ByteArrayInputStream(screenshot));
+        }
         tearDown();
+
     }
 
 

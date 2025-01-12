@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="57.321" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="navigate to flipkart login page" name="user should be able to navigate to flipkart log in page" time="57.02">
+<system-out><![CDATA[
+Given The user is on flipKart home page.....................................passed
+When I double click on login button.........................................passed
+Then I should see Login text................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

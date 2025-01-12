@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="169.105" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="Verify_Discount_Filter_Functionality" name="Search results are displayed for a valid product search - #1.1" time="72.044">
+<system-out><![CDATA[
+Given The user is on flipKart home page.....................................passed
+When I hover over the Fashion category in the navigation bar................passed
+And I navigate to Men_Footwear and then Men’s Sports Shoes..................passed
+Then I will be navigated to product's detail page...........................passed
+Then I hover over the Discount filter on the left-hand side of the page.....passed
+When I select a discount filter "30% or more"...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="Verify_Discount_Filter_Functionality" name="Search results are displayed for a valid product search - #1.2" time="96.661">
+<system-out><![CDATA[
+Given The user is on flipKart home page.....................................passed
+When I hover over the Fashion category in the navigation bar................passed
+And I navigate to Men_Footwear and then Men’s Sports Shoes..................passed
+Then I will be navigated to product's detail page...........................passed
+Then I hover over the Discount filter on the left-hand side of the page.....passed
+When I select a discount filter "60% or more"...............................passed
+]]></system-out>
+</testcase>
+</testsuite>

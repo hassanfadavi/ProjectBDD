@@ -11,9 +11,9 @@ public class Amazon_LandingPage {
     public WebDriver driver;
     public WebElement amazon_Logo;
     public WebElement allDropDown;
-//    public WebElement men;
-//    public String mens_Value;
     public WebElement searchBar;
+    public WebElement best_seller;
+    public By best_seller_text;
     ActionsDemo  actionsDemo;
     SelectDemo  selectDemo;
 
@@ -26,8 +26,8 @@ public class Amazon_LandingPage {
         amazon_Logo=driver.findElement(By.xpath("//a[@id='nav-logo-sprites']"));
         allDropDown= driver.findElement(By.xpath("//select[@id='searchDropdownBox']"));
         searchBar=driver.findElement(By.xpath("//input[@name='field-keywords']"));
-//         mens_Value="search-alias=fashion-mens";
-
+        best_seller=driver.findElement(By.xpath("//a[text()='Best Sellers' and @class='nav-a  ']"));
+        best_seller_text=By.xpath("//span[@id='zg_banner_text']");
     }
 
 
@@ -46,6 +46,16 @@ public class Amazon_LandingPage {
 
     public void enterAction(){
         actionsDemo.enterKeyAction();
+    }
+
+    public void click_on_best_seller(){
+        actionsDemo.actionMouseClick(best_seller);
+//        best_seller.click();
+    }
+
+    public String get_best_seller_text(){
+     return   driver.findElement(best_seller_text).getText();
+//      return  best.getText();
     }
 
 

@@ -2,11 +2,17 @@ package base;
 
 import config.ConfigManager;
 import config.DriverFactory;
+import io.cucumber.java.Scenario;
+import io.qameta.allure.Allure;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
+
+import java.io.ByteArrayInputStream;
 
 public class BaseTest {
 
@@ -29,12 +35,14 @@ public class BaseTest {
 
     @AfterMethod
     public void tearDown() {
-//        DriverFactory.quitDriver();
-//        logger.info("Driver instance is quit after the test");
-//    }
+
+
+        DriverFactory.quitDriver();
+        logger.info("Driver instance is quit after the test");
+    }
 
     }
-}
+
 
 //
 //    public static void main(String[] args) {

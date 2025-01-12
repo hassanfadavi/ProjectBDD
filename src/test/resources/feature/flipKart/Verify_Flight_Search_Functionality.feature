@@ -18,6 +18,6 @@ Feature: Verify Flight Search Functionality
 
     Examples:
       | departure date   |   return date | departure city | destination city|
-      | March 2025,13 |  April 2025,20 |  BOM            | BKK              |
-      | February 2025,25 |  May 2025,10 |  HYD            | KUL              |
+      | June 2025,13 |  July 2025,20 |  BOM            | BKK              |
+
 

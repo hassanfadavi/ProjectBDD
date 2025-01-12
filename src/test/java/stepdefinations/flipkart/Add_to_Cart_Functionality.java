@@ -6,15 +6,20 @@ import config.ConfigManager;
 import enums.WaitStrategy;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
+import io.cucumber.java.Scenario;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import io.qameta.allure.Allure;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.testng.Assert;
 import pages.flipKart.LandingPage;
 import pages.flipKart.ProductDetailPage;
 import pages.flipKart.SearchPage;
 
+import java.io.ByteArrayInputStream;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -107,10 +112,14 @@ public class Add_to_Cart_Functionality extends BaseTest {
     }
 
 
-
     @After
-    public void tear(){
+    public void tear(Scenario scenario){
+        if (scenario.isFailed()) {
+            byte[] screenshot=((TakesScreenshot)driver).getScreenshotAs(OutputType.BYTES);
+            Allure.addAttachment("Failed Screenshot",new ByteArrayInputStream(screenshot));
+        }
         tearDown();
+
     }
 
 

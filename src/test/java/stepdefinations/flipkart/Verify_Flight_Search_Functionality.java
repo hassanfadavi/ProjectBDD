@@ -4,10 +4,14 @@ import Utils.WaitUtils;
 import base.BaseTest;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
+import io.cucumber.java.Scenario;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import io.qameta.allure.Allure;
 import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import pages.flipKart.FlightPage;
@@ -15,29 +19,31 @@ import pages.flipKart.FlightSearchPage;
 import pages.flipKart.LandingPage;
 import pages.flipKart.SearchPage;
 
+import java.io.ByteArrayInputStream;
+
 public class Verify_Flight_Search_Functionality extends BaseTest {
 
 
     LandingPage landingPage;
-    FlightSearchPage  flightSearchPage;
+    FlightSearchPage flightSearchPage;
     FlightPage flightPag;
 
 
     @Before
-    public void prepareed(){
+    public void prepareed() {
         setUp();
 
     }
 
     @When("I click on Flights bookings")
     public void i_click_on_flights_bookings() {
-        this.landingPage=new LandingPage(driver);
+        this.landingPage = new LandingPage(driver);
         WaitUtils.applyGlobalWait();
         landingPage.clickOnFlightButton();
 
 
-
     }
+
     @Then("I should be navigated to flight search page")
     public void i_should_be_navigated_to_flight_search_page() {
         WaitUtils.applyGlobalWait();
@@ -46,7 +52,7 @@ public class Verify_Flight_Search_Functionality extends BaseTest {
 
     @And("I select departure date {string}")
     public void i_select_departure_date(String departure_date) {
-        this.flightSearchPage=new FlightSearchPage(driver);
+        this.flightSearchPage = new FlightSearchPage(driver);
         flightSearchPage.departureDate(departure_date);
 
 
@@ -65,8 +71,8 @@ public class Verify_Flight_Search_Functionality extends BaseTest {
         flightSearchPage.departureCity(departure_city);
 
 
-
     }
+
     @And("I select the destination city {string}")
     public void i_select_the_destination_city(String destination_city) {
         WaitUtils.applyGlobalWait();
@@ -81,25 +87,25 @@ public class Verify_Flight_Search_Functionality extends BaseTest {
         flightSearchPage.clickOnSearchButton();
 
     }
+
     @Then("I should be navigated to flight page")
     public void I_should_be_navigated_to_flight_page() throws InterruptedException {
         Thread.sleep(15000);
-        this.flightPag=new FlightPage(driver);
-      String actualText=flightPag.filterBy.getText();
-      String expectedText="Filter By";
-        Assert.assertEquals(actualText,expectedText,"not match");
+        this.flightPag = new FlightPage(driver);
+        String actualText = flightPag.filterBy.getText();
+        String expectedText = "Filter By";
+        Assert.assertEquals(actualText, expectedText, "not match");
 
     }
-
-
-
-
-
 
 
     @After
-    public void tear(){
+    public void tear(Scenario scenario) {
+        if (scenario.isFailed()) {
+            byte[] screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
+            Allure.addAttachment("Failed Screenshot", new ByteArrayInputStream(screenshot));
+        }
         tearDown();
-    }
 
+    }
 }
